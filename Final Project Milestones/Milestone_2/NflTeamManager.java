@@ -1,5 +1,6 @@
 //Made by Daniel Sabanov
- 
+//IMPORTANT! This is the driver method for the 2nd milestone, not the team manager for milestone 3.
+
 package nflteammanager;
 
 
