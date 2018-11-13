@@ -6,16 +6,16 @@ package nflteammanager;
 
 public class NFLPlayer {
     //properties
-    int playerHeight;
-    int playerPassDistance;
-    int playerRunDistance;
-    int playerSpeed;
-    int playerAge;
-    int playerWeight;
-    String playerFirstName;
-    String playerLastName;
-    String playerPosition;
-    String playerCurrentTeam;
+    private int playerHeight;
+    private int playerPassDistance;
+    private int playerRunDistance;
+    private int playerSpeed;
+    private int playerAge;
+    private int playerWeight;
+    private String playerFirstName;
+    private String playerLastName;
+    private String playerPosition;
+    private String playerCurrentTeam;
     //constructor with no arguments
     
     public NFLPlayer(){
